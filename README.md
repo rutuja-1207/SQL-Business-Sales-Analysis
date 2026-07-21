@@ -65,6 +65,38 @@ The project includes:
 - Window Function Analysis
 
 ---
+---
+
+## 🖼 Query Output Screenshots
+
+### 1. Total Revenue
+
+![Total Revenue](Query%20Outputs/01_Total_Revenue.png)
+
+---
+
+### 2. Top Customers
+
+![Top Customers](Query%20Outputs/02_Top_Customers.png)
+
+---
+
+### 3. Product Revenue
+
+![Product Revenue](Query%20Outputs/03_Product_Revenue.png)
+
+---
+
+### 4. City Analysis
+
+![City Analysis](Query%20Outputs/04_City_Analysis.png)
+
+---
+
+### 5. Rank Products
+
+![Rank Products](Query%20Outputs/Rank%20products.png)
+
 
 ## 💡 Key Insights
 
